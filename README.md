@@ -20,13 +20,12 @@ An intuitively designed To-Do List application leveraging HTML, CSS, JavaScript,
 ## Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/shreya1m/ToDoList.git
+   git clone https://github.com/shreya1m/TODO-List
    
 2. Install dependencies:
 
-cd ToDoList
-npm install
+- cd ToDoList
+- npm install
 
 3. Set up MongoDB:
 
