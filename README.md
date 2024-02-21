@@ -19,19 +19,19 @@ An intuitively designed To-Do List application leveraging HTML, CSS, JavaScript,
 
 ## Getting Started
 
-- Clone the repository:
+### Clone the repository:
    git clone https://github.com/shreya1m/TODO-List
    
-- Install dependencies:
+### Install dependencies:
 
 - cd ToDoList
 - npm install
 
-- Set up MongoDB:
+### Set up MongoDB:
 
 Create an account and configure your connection string.
-- Run the application:
+### Run the application:
 
-npm start
-- 5. Open your browser and visit http://localhost:3000.
+- npm start
+- Open your browser and visit http://localhost:3000.
 
